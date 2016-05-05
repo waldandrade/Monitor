@@ -1,0 +1,8 @@
+Main-Class: br.com.ceramic.assinador.AssinadorCeramic
+Permissions: all-permissions
+Codebase: *
+Application-Name: AssinadorCeramic
+Application-Library-Allowable-Codebase: http://localhost:8080 *.ceramic.com.br
+Caller-Allowable-Codebase: http://localhost:8080 *.ceramic.com.br
+Entry-Point: br.com.ceramic.assinador.AssinadorCeramic
+Trusted-Only: true

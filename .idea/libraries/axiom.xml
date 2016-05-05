@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="axiom">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/axiom-api-1.2.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/axiom-impl-1.2.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="axis2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/axis2-adb-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/axis2-kernel-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/axis2-transport-http-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/axis2-transport-local-1.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
